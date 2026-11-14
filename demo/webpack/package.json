@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "start": "http-server ./dist -p 8080",
-    "test": "npm run build >/dev/null"
+    "test": "npm run build"
   },
   "keywords": [],
   "author": "",

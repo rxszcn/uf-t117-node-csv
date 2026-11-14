@@ -29,6 +29,6 @@
     "timeout": 40000
   },
   "scripts": {
-    "test": "mocha 'test/**/*.js'"
+    "test": "mocha \"test/**/*.js\""
   }
 }
